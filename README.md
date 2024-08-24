@@ -1,3 +1,3 @@
-# UnusedWindowsAPIExamples
+# WindowsAPIExamples
 
-This repository contain all unused Windows API examples.
+This repository contain some Windows API examples.
